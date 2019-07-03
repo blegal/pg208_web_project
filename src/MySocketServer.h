@@ -40,7 +40,6 @@
 
 #include <QStringList>
 #include <QTcpServer>
-#include "MyFileCache.h"
 
 class MySocketServer : public QTcpServer
 {
